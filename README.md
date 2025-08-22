@@ -36,15 +36,11 @@ IBM Granite Foundation Model
 
 ✨ Wow Factors
 
-Instant Itinerary Generation – Personalized to travel style, budget, and preferences.
-
-Real-time Local Recommendations – Food, attractions, events based on location.
-
-Smart Travel Planning – Dynamic route optimization with weather awareness.
-
-Language & Cultural Assistant – Helps with communication and etiquette.
-
-Budget Tracking & Deal Alerts – Maximizes experiences while saving money.
+1. Instant Itinerary Generation – Personalized to travel style, budget, and preferences.
+2. Real-time Local Recommendations – Food, attractions, events based on location.
+3. Smart Travel Planning – Dynamic route optimization with weather awareness.
+4. Language & Cultural Assistant – Helps with communication and etiquette.
+5. Budget Tracking & Deal Alerts – Maximizes experiences while saving money.
 
 👥 End Users
 
@@ -62,30 +58,4 @@ Successfully deployed the AI Agent on IBM Cloud.
 Demonstrated intelligent travel planning capabilities.
 Showcased real-time recommendations and itinerary creation.
 
-📚 Conclusion
-
-The Travel Planner AI Agent:
-Streamlines trip planning with intelligent automation.
-Enhances the travel experience with personalization and real-time data.
-Reduces the time, stress, and complexity of organizing travel.
-
-🔮 Future Scope
-
-Integration with AR/VR for virtual destination previews.
-Voice assistant and multilingual support.
-Real-time travel companion features.
-Hyper-personalization through AI learning.
-Direct integration with airlines, hotels, and local services.
-
-🎓 IBM Certifications
-
-Getting Started with AI
-Journey to Cloud
-Lab : Retrieval Augmented Generation (RAG)
-
-📂 GitHub Repository
-🔗 Travel AI Agent on GitHub
-
-🙏 Acknowledgments
-
-This project was developed as part of the IBM Internship program at Edunet Foundation.
+==> This project was developed as part of the IBM Internship program at Edunet Foundation.
