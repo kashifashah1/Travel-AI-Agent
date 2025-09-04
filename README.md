@@ -1,4 +1,4 @@
-<h1>🌍 Travel Planner AI Agent</h1>
+<h1> Travel Planner AI Agent</h1>
 
 An AI-powered assistant that helps users plan trips efficiently and intelligently using real-time data, AI models, and IBM Cloud services.
 This project was developed as part of the IBM Internship Project.
